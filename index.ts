@@ -13,6 +13,7 @@ async function main() {
     traces: [
       {
         to: ["0x88D19A03C429029901d917510f8f582D2E5F803B"],
+        callType: ["call"],
       },
     ],
     fieldSelection: {
